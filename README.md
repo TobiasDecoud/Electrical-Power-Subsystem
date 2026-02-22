@@ -3,6 +3,8 @@
 Necesitamos:
  
   Potencia Requerida: Estimar el consumo de energía promedio y pico de todos los subsistemas del satélite.
+
+  Voltajer Requeridos
   
   Órbita del Satélite: Determinar los períodos de luz solar y eclipse para dimensionar los paneles solares y la capacidad de las baterías.
   
