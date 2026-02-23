@@ -17,3 +17,4 @@ Suponer que los subsistemas necesitaran 3.3V Y 5V
 ADC por los 300mA de consumo
 
 
+
