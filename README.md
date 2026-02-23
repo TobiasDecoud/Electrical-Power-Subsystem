@@ -13,3 +13,5 @@ Necesitamos:
 
 Suponer 5V para panel solar
 Suponer que los subsistemas necesitaran 3.3V Y 5V
+
+
